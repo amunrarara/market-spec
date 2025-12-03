@@ -448,6 +448,7 @@ Sent by buyer to initiate order process.
 - `address`: Shipping address details
 - `email`: Customer email for contact
 - `phone`: Customer phone number for contact
+- `store`: "Shopstr", "https://"
 - Other optional tags can be added with more details from the customer
 
 ```jsonc
